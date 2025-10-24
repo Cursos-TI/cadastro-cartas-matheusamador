@@ -89,5 +89,6 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos2);
     printf("-----------------------------\n");
 
+
 return 0;
 } 
